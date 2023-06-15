@@ -1,0 +1,30 @@
+body{
+    font-family: 'Nanum Pen Script', cursive;
+    background-color: #bedbc9;
+}
+p{
+    font-family: 'Nanum Pen Script', cursive;
+}
+
+/* 네비게이션 영역 */
+.nav-link:hover,
+.nav-link.active {
+    color: #d8dcf4 !important;
+}
+/* 헤더 영역 */
+header {
+    background-image: url(배경1.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+/* 계절별 식물 영역 */
+
+p {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* 식물 키우기 영역 */
+p {
+    font-family: 'Noto Sans KR', sans-serif;
+}
